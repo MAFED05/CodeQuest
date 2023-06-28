@@ -11,7 +11,7 @@ Profesor: Felipe Gonzalez Roldan
 ##### Equipo: Bug.Ing
 [![Logo-programaci-n.png](https://i.postimg.cc/SNYSyphh/Logo-programaci-n.png)](https://postimg.cc/tYyQ5wJS)
 
-### Situacidn problema
+### Situación problema
 
 Construir una aplicación que emule un ahorcado utilizando código en lenguaje Python, donde son importantes las siguientes características:
 * Código original: Realizamos el juego de forma original, sin ayuda de personas externas o inteligencias artificiales
