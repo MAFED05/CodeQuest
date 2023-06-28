@@ -1,6 +1,7 @@
 # Ahor_code: Descifra o muere
 
 Proyecto final de programación de computadores
+Versión Python: 3.10.11
 Profesor: Felipe Gonzalez Roldan
 
 #### Integrantes del equipo:
