@@ -1,4 +1,4 @@
-# CodeQuest: La Búsqueda del Tesoro Codificado
+# Ahor_code: Descifra o muere
 
 Proyecto final de programación de computadores
 Profesor: Felipe Gonzalez Roldan
