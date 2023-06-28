@@ -52,7 +52,7 @@ Estas son solo algunas de las funcionalidades más destacadas de Pygame. Con est
 * Interfaz de Juegos en PY: https://code.intef.es/prop_didacticas/pygame-realizando-juegos-con-python/"Code.intef" 
 * Librerías para PY: https://matplotlib.org/"Matplotlib" 
 * KeepCoding: https://keepcoding.io/blog/que-es-pygame/#:~:text=C%C3%B3mo%20puedes%20continuar%3F-,Pygame%3A%20librer%C3%ADa%
-* Funciones 1, Felipe Gonzáles [ pdc_unal_clase9 ]
+* Funciones 1, Felipe Gonzáles [ pdc_unal_clase9 ]: https://github.com/fegonzalez7/pdc_unal_clase9
 * Video de ayuda: https://www.youtube.com/watch?v=fZpJ6UWaOo8
 * Video de ayuda: https://www.youtube.com/watch?v=EkwsrL9eNfQ
 * Video de ayuda: https://www.youtube.com/watch?v=Q0pAPBrJyAY
